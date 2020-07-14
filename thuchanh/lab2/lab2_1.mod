@@ -1,0 +1,2 @@
+/home/tronghuu/HocLieu_SV/thuchanh/lab2/lab2_1.o
+

@@ -1,0 +1,1 @@
+cmd_/home/tronghuu/HocLieu_SV/thuchanh/lab1/lab1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/tronghuu/HocLieu_SV/thuchanh/lab1/lab1.ko /home/tronghuu/HocLieu_SV/thuchanh/lab1/lab1.o /home/tronghuu/HocLieu_SV/thuchanh/lab1/lab1.mod.o ;  true
